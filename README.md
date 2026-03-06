@@ -35,7 +35,7 @@ in your browser.
 Live URL: https://adrianaac.github.io/analog-clock-css/
 
 
-![Analog Clock](./preview.png)
+![Analog Clock](./analog_clock_css.png)
 
 ---
 
