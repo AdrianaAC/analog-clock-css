@@ -32,6 +32,8 @@ index.html
 ```
 in your browser.
 
+Live URL: https://adrianaac.github.io/analog-clock-css/
+
 ---
 
 This project focuses on practicing:
